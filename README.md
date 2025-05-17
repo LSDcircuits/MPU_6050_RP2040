@@ -57,11 +57,7 @@ Usage
 * Upload the compiled binary to the RP2040.
 * Monitor the serial output to observe the sensor data.
 
-Future Work
-The current implementation focuses on understanding and interfacing with the MPU6050 sensor. Future work will include:
-* Integrating the data for advanced inertial navigation systems.
-* Improving the accuracy of the orientation calculations.
-* Developing algorithms for sensor fusion to combine data from multiple sensors.
+
 
 
 Conclusion
