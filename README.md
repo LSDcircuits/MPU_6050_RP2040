@@ -60,5 +60,4 @@ Usage
 
 
 
-Conclusion
-This project serves as a foundational step towards building more complex inertial navigation systems using the RP2040 and MPU6050 sensor. By mastering the basics of reading and processing sensor data, future enhancements can be made to improve the performance and accuracy of the navigation system.
+
